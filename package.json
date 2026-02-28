@@ -23,9 +23,12 @@
     "react-awesome-reveal": "^4.3.1",
     "react-dom": "^19.2.0",
     "react-hook-form": "^7.71.2",
+    "react-hot-toast": "^2.6.0",
+    "react-rating-stars-component": "^2.2.0",
     "react-router": "^7.13.1",
     "react-simple-typewriter": "^5.0.1",
     "react-tooltip": "^5.30.0",
+    "sweetalert2": "^11.26.21",
     "swiper": "^12.1.2",
     "tailwindcss": "^4.2.1"
   },
